@@ -24,4 +24,12 @@ Tools: InShot (for voice-over video), VS Code
 💬 Voice-over video explanation (submitted via InShot)
 
 📄 Professional documentation attached
+🧠 Challenges Faced
+Form validation to avoid empty submissions
+
+Managing SQLite queries and error handling
+
+Pre-filling data in edit forms correctly
+
+Keeping the UI minimal and user-friendly
 
